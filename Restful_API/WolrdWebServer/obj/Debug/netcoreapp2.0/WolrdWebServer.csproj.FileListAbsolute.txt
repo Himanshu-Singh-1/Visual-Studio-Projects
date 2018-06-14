@@ -1,0 +1,11 @@
+D:\WebAPI\WolrdWebServer\bin\Debug\netcoreapp2.0\WolrdWebServer.deps.json
+D:\WebAPI\WolrdWebServer\bin\Debug\netcoreapp2.0\WolrdWebServer.runtimeconfig.json
+D:\WebAPI\WolrdWebServer\bin\Debug\netcoreapp2.0\WolrdWebServer.runtimeconfig.dev.json
+D:\WebAPI\WolrdWebServer\bin\Debug\netcoreapp2.0\WolrdWebServer.dll
+D:\WebAPI\WolrdWebServer\bin\Debug\netcoreapp2.0\WolrdWebServer.pdb
+D:\WebAPI\WolrdWebServer\obj\Debug\netcoreapp2.0\WolrdWebServer.csproj.CoreCompileInputs.cache
+D:\WebAPI\WolrdWebServer\obj\Debug\netcoreapp2.0\WolrdWebServer.AssemblyInfoInputs.cache
+D:\WebAPI\WolrdWebServer\obj\Debug\netcoreapp2.0\WolrdWebServer.AssemblyInfo.cs
+D:\WebAPI\WolrdWebServer\obj\Debug\netcoreapp2.0\WolrdWebServer.dll
+D:\WebAPI\WolrdWebServer\obj\Debug\netcoreapp2.0\WolrdWebServer.pdb
+D:\WebAPI\WolrdWebServer\obj\Debug\netcoreapp2.0\WolrdWebServer.csprojResolveAssemblyReference.cache
